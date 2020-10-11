@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/grav_tools" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
